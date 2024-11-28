@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AreaUtils.Interfaces
 {
-    internal interface IShape
+    public interface IShape
     {
+        double CalculateArea();
     }
 }
