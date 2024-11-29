@@ -28,3 +28,6 @@
 | **Products**      | ID, Name                            | Хранит информацию о продуктах.                |
 | **ProductCategories** | ProductID, CategoryID              | Связывает продукты с категориями.             |
 | **Categories**    | ID, Name            | Хранит информацию о категориях.               |
+
+
+[Ссылка на задание]([docs/CONTRIBUTING.md](https://docs.google.com/document/d/13DspmfXPlRhZF7PaeH74JGmGBQtnh6diIxpqaDyXVOk/edit))
